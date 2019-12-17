@@ -1,4 +1,4 @@
-source './.vimrc.keymap'
+source '~/.mydotfiles/vimrc.keymap'
 
 syntax on
 
