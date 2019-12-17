@@ -1,5 +1,7 @@
 source ~/.mydotfiles/.vimrc.keymap
 
+
+
 "行連結を賢くする
 set ideajoin
 "クリップボード系
@@ -33,3 +35,5 @@ nnoremap ,a :action GotoAction<CR>
 vnoremap ,a :action GotoAction<CR>
 
 
+"ideavimでappendが使えない？ので専用の空行挿入
+nnoremap <space>o o<esc>
