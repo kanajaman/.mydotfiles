@@ -10,6 +10,8 @@ set clipboard+=unnamed
 nnoremap ,e :action SearchEverywhere<CR>
 nnoremap ,g :action FindInPath<CR>
 nnoremap ,s :action FileStructurePopup<CR>
+nnoremap ,r :action Run<CR>
+nnoremap ,cr :action ChooseRunConfiguration<CR>
 
 nnoremap gd :action GotoDeclaration<CR>
 nnoremap gs :action GotoSuperMethod<CR>
