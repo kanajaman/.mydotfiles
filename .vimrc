@@ -45,3 +45,4 @@ set tabstop=4
 " 行頭でのTab文字の表示幅
 set shiftwidth=4
 
+source ~/.vimrc.local

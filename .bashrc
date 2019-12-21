@@ -120,3 +120,6 @@ if type trash-put &> /dev/null
 fi
 
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\](^o^) \[\033[00m\]:\[\033[01;34m\]\w\n\$\[\033[00m\] '
+
+
+source ~/.bashrc.local
