@@ -37,3 +37,6 @@ vnoremap ,a :action GotoAction<CR>
 
 "ideavimでappendが使えない？ので専用の空行挿入
 nnoremap <space>o o<esc>
+
+
+source ~/.ideavimrc.local
