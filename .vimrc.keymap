@@ -1,3 +1,7 @@
+" H, Lを行頭、行末に変更
+nnoremap H ^
+nnoremap L $
+
 " 折り返し時に表示行単位での移動できるようにする
 nnoremap j gj
 nnoremap k gk
